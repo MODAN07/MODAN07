@@ -1,115 +1,163 @@
-<h1 align="center">Hi, I'm Moses Gnamisan Daniel</h1>
-<h3 align="center">Cloud Security & DevSecOps Engineer | AWS · Azure · GCP | 7+ Years</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/moses-daniel-a8a80861/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://mosesdaniel.vzy.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
-  <a href="https://x.com/Dan_MG93"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/></a>
-</p>
-What I Do
-I design, secure, and automate cloud infrastructure, from zero-trust IaC pipelines to SIEM deployments and compliance-ready architectures across AWS, Azure, and GCP.
-Cloud Security - CSPM, IAM hardening, encryption, and least-privilege access
-DevSecOps — CI/CD pipelines with Checkov, Bandit, and OWASP ZAP security gates
-Infrastructure as Code — Terraform, Docker, Kubernetes across multi-cloud
-SIEM & Monitoring — AlienVault OSSIM, Zabbix, Grafana for threat detection
-Compliance — HIPAA, PCI DSS, GDPR architecture design and implementation
-Network Security — FortiGate, pfSense, MikroTik — VPN, IDS/IPS, segmentation
+<div align="center">
 
-🛠️ Tech Stack
-Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-DevSecOps & IaC
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-Security Tooling
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat)
-![Checkov](https://img.shields.io/badge/Checkov-2D3748?style=flat)
-![Bandit](https://img.shields.io/badge/Bandit-yellow?style=flat)
-![AlienVault](https://img.shields.io/badge/AlienVault_OSSIM-ED1C24?style=flat)
-![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=flat)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat)
-Monitoring & Scripting
-![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware_ESXi-607078?style=flat&logo=vmware&logoColor=white)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1F3D7A&center=true&vCenter=true&width=700&lines=Moses+Gnamisan+Daniel;Cloud+Security+%26+Infrastructure+Engineer;Government+%26+Military-Scale+Deployments;DevSecOps+%7C+Multi-Cloud+%7C+6%2B+Years" alt="Typing SVG" />
+
+</div>
+
 ---
-🚀 Projects
-☁️ Cloud Security & DevSecOps
-Project	Description	Stack
-SecureWebOps	DevSecOps pipeline — AWS EC2 with Checkov, Bandit & OWASP ZAP gates, OIDC, IMDSv2	`AWS` `Terraform` `GitHub Actions` `Docker`
-PCI DSS Banking App	PCI DSS-compliant online banking infrastructure across Azure & GCP	`Azure` `GCP` `Terraform` `IAM` `CI/CD`
-HIPAA HMS — GCP	HIPAA-compliant Hospital Management System — IAP, KMS, audit logging	`GCP` `Cloud SQL` `IAP` `KMS`
-HIPAA Infrastructure — Azure	HIPAA-focused Azure infrastructure with Terraform, Docker & GitHub Actions	`Azure` `Terraform` `Docker` `GitHub Actions`
-Securing Web App on GCP	Web application hardening on GCP — IAM, cloud security controls, misconfiguration remediation	`GCP` `IAM` `Cloud Security`
-AWS → GCP Migration	Full workload migration — static content, databases, DNS — AWS to GCP	`AWS` `GCP` `Cloud DNS` `Cloud SQL`
-Security Monitoring & SIEM
-Project	Description	Stack
-Multi-Cloud Security Monitoring	Unified SIEM + observability across 40+ nodes — 60% MTTD reduction	`AlienVault OSSIM` `Zabbix` `Grafana`
-AlienVault OSSIM SIEM Deployment	Centralised logging, event correlation & threat monitoring via OSSIM	`AlienVault OSSIM` `SIEM` `Log Analysis`
-Grafana Infrastructure Monitoring	Custom Grafana dashboards for cloud infrastructure observability	`Grafana` `Cloud Logging`
-Zabbix Cloud Monitoring	Zabbix deployment for alerting, performance & availability management	`Zabbix` `Monitoring`
-DevSecOps & CI/CD
-Project	Description	Stack
-GCP DevSecOps & CI/CD Labs	GKE + Cloud Run deployments, Terraform IaC, GitHub Actions automation	`GKE` `Cloud Run` `Terraform` `GitHub Actions`
-CI/CD & IaC Automation Projects	Automated deployment pipelines and Infrastructure as Code workflows	`Terraform` `Docker` `Kubernetes` `CI/CD`
-Networking & Infrastructure
-Project	Description	Stack
-FortiGate Firewall Lab	Enterprise FortiGate UTM — IDS/IPS, VPN, VLANs, NAT, traffic management	`FortiGate` `IPS` `VPN` `VMware ESXi`
-pfSense Network Security	pfSense HA firewall — CARP failover, Suricata IDS, pfBlockerNG, segmentation	`pfSense` `Suricata` `CARP` `VPN`
-VMware ESXi Lab	Private cloud home lab — server virtualisation, vSphere management	`VMware vSphere` `ESXi`
-Kali Linux Security Lab	Kali Linux on ESXi for ethical hacking, VA/PT practice	`Kali Linux` `VMware ESXi` `Ethical Hacking`
+
+<div align="center">
+
+### Google Professional Cloud Security Engineer
+**AWS · Azure · GCP · Terraform · Kubernetes · Docker · GitHub Actions**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moses%20Daniel-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/moses-daniel-a8a80861/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mosesdaniel.vzy.io-1F3D7A?style=for-the-badge&logo=google-chrome)](https://mosesdaniel.vzy.io)
+[![GitHub](https://img.shields.io/badge/GitHub-MODAN07-181717?style=for-the-badge&logo=github)](https://github.com/MODAN07)
+
+</div>
+
 ---
-📜 Certifications & Credentials
-☁️ Cloud & Security — Professional Level
-Credential	Issuer
-Professional Cloud Security Engineer	Google Cloud ✅
-CNSS Certified Network Security Specialist	ICSI ✅
-Google Cybersecurity Professional Certificate	Google / Coursera ✅
-Google IT Support Professional Certificate	Google / Coursera ✅
-Cybersecurity Professional Certificate	IBM ✅
-AWS Cloud Computing	Amazon Web Services ✅
-External Attack Surface for Initial Access in AWS	AWS ✅
-Introduction to Risk Management	ISACA ✅
-Introduction to Critical Infrastructure Protection	OPSWAT ✅
-Certified Information Systems Security Professional (CISSP)	ISC² SkillUP 📚
-Introduction to Cloud Security	ISC² SkillUP ✅
-🔐 Ethical Hacking & Offensive Security
-Credential	Issuer
-Ethical Hacking Essentials (EHE)	EC-Council ✅
-Network Defence Essentials (NDE)	EC-Council ✅
-Ethical Hacking Using Kali Linux — Red Team Tactics	✅
-Kali Linux Ethical Hacking	✅
-Wireshark Packet Analysis	✅
-Cybersecurity Job Simulation	Forge ✅
-Cyber Security Global Virtual Internship	Forge ✅
-🔥 Networking & Firewalls
-Credential	Issuer
-NSE 3 Network Security Associate	Fortinet ✅
-Fortinet Certified Fundamentals in Cybersecurity	Fortinet ✅
-Cyber Threat Management	Cisco ✅
-Network Support and Security	Cisco ✅
-Networking Devices and Initial Configuration	Cisco ✅
-Networking Basics	Cisco ✅
-Introduction to Cybersecurity	Cisco ✅
-Computer Network Security	✅
-🖥️ Systems & Infrastructure
-Credential	Issuer
-MCSE Windows Server 2022 OS Administration	✅
-VMware vSphere — Manage Virtualized Infrastructure	✅
-CentOS Linux Administration	✅
-Introduction to Linux (LFS101)	The Linux Foundation ✅
-Linux CompTIA A+	Cisco ✅
-Install NGINX, PHP, MySQL & SSL on Ubuntu	✅
-DevOps Tools	✅
-🛡️ SOC & Security Operations
-Credential	Issuer
-Cybersecurity: SOC Analyst	✅
-Cloud Computing and AWS Fundamentals	✅
-Cybersecurity Awareness Training	Amazon ✅
----
+
+## Who I Am
+
+I'm a Cloud Security and IT Infrastructure Engineer with 6+ years of experience across multi-cloud security architecture, DevSecOps, and national-scale government and military infrastructure deployments.
+
+Before the cloud, I designed and deployed secure telecommunications, surveillance, and identity infrastructure across **50+ sites** for law enforcement and military agencies — including nationwide VoIP networks, IPSec-secured body-cam systems, Military vehicle surveillance infrastructure Systems, and Active Directory environments for command centers.
+
+Today I architect and secure cloud infrastructure on AWS, Azure, and GCP — building DevSecOps pipelines where security is a hard gate, not an afterthought.
+
 > *"Security is not a product, but a process."* — Bruce Schneier
+
+---
+
+## What I Do
+
+```
+Cloud Security Architecture    →   AWS · Azure · GCP security design & implementation
+DevSecOps Pipelines            →   Terraform · GitHub Actions · Checkov · Bandit · OWASP ZAP
+Security Operations            →   AlienVault OSSIM · Wazuh · Zabbix · Grafana · SIEM
+Network & Perimeter Security   →   FortiGate · pfSense · Cisco · IPSec VPN · MikroTik
+Identity & Access Management   →   Active Directory · RBAC · Least Privilege · Shift-based ACL
+Infrastructure at Scale        →   50+ site deployments · Government · Military · Enterprise
+```
+
+---
+
+## Flagship Project
+
+### [SecureWebOps](https://github.com/MODAN07/securewebop) — DevSecOps Pipeline on AWS
+
+A production-grade DevSecOps pipeline where security scanning is a **hard gate** — not optional, not decorative.
+
+| Layer | Tool | Purpose |
+|-------|------|---------|
+| IaC Security | Checkov | Terraform misconfiguration scanning |
+| SAST | Bandit | Python static analysis |
+| DAST | OWASP ZAP | Live application vulnerability scanning |
+| IaC Provisioning | Terraform | AWS infrastructure as code |
+| CI/CD | GitHub Actions | Automated pipeline orchestration |
+| Compute | AWS EC2 | Target deployment environment |
+
+> Phase 1 complete. Phase 2 (expanded scanning + hardening) in active development.
+
+---
+
+## Portfolio Projects
+
+| Project | Cloud | Focus |
+|---------|-------|-------|
+| [PCI DSS Banking App](https://github.com/MODAN07/pci-dss-banking-app) | Azure + GCP | Payment security compliance |
+| [HIPAA Hospital Management](https://github.com/MODAN07/hipaa-hms-gcp) | GCP | Healthcare data protection |
+| [HIPAA Azure Infrastructure](https://github.com/MODAN07/hipaa-azure-infra) | Azure | Compliance-ready cloud infra |
+| [Securing Web App on GCP](https://github.com/MODAN07/securing-webapp-gcp) | GCP | IAM, WAF, misconfiguration remediation |
+| [AWS to GCP Migration](https://github.com/MODAN07/aws-to-gcp-migration) | AWS + GCP | Workload migration with security controls |
+| [Multi-Cloud Security Monitoring](https://github.com/MODAN07/multi-cloud-security-monitoring) | AWS + GCP + Azure | AlienVault OSSIM · Grafana · Zabbix |
+| [GCP DevSecOps CI/CD Labs](https://github.com/MODAN07/gcp-devsecops-cicd-labs) | GCP | GKE · Cloud Run · Terraform |
+| [FortiGate Firewall Lab](https://github.com/MODAN07/fortinet-firewall-lab) | On-Premise | Enterprise perimeter security |
+| [pfSense Network Security](https://github.com/MODAN07/pfsense-network-security) | On-Premise | Open-source firewall & segmentation |
+| [VMware ESXi Private Cloud](https://github.com/MODAN07/vmware-esxi-lab) | On-Premise | Private cloud home lab |
+| [Kali Linux on ESXi](https://github.com/MODAN07/kali-linux-esxi-lab) | On-Premise | Ethical hacking & VA/PT practice |
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+**DevSecOps**
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Checkov](https://img.shields.io/badge/Checkov-1F3D7A?style=flat-square)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-E02222?style=flat-square)
+
+**Security**
+
+![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square)
+![AlienVault](https://img.shields.io/badge/AlienVault_OSSIM-1F3D7A?style=flat-square)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square)
+
+**Systems & Networking**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square)
+
+**Scripting**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+</div>
+
+---
+
+## Top Certifications
+
+- **Google Professional Cloud Security Engineer** *(2025)*
+-  Google IT Support Professional — Coursera
+-  Google Cybersecurity Certificate — Coursera
+-  AWS Cloud Computing Fundamentals
+-  IBM Cybersecurity Analyst
+-  SOC Analyst (x2)
+-  EC-Council: EHE + NDE
+-  Fortinet NSE3 + Fundamentals
+-  Cisco Certifications (x6)
+-  MCSE Windows Server 2022
+-  VMware vSphere
+-  ISACA Risk Management
+-  CNSS — ICSI
+-  OPSWAT File Security
+-  CISSP SkillUP Training Completion *(not the official ISC² CISSP certification)*
+
+---
+
+## Currently
+
+-  Building **SecureWebOps** — Phase 2 active development
+-  Open to **remote Cloud Security roles** and **EU/UK relocation**
+-  Target roles: Cloud Security Engineer · DevSecOps Engineer · Security Architect
+-  Continuously learning in my **VMware ESXi private cloud home lab**
+
+---
+
+<div align="center">
+
+*Open to remote opportunities and relocation — EU · UK · Global*
+
+**moses.daniel90@gmail.com**
+
+</div>
