@@ -21,7 +21,7 @@
 
 ## Who I Am
 
-I'm a Cloud Security and IT Infrastructure Engineer with 6+ years of experience across multi-cloud security architecture, DevSecOps, and national-scale government and military infrastructure deployments.
+I'm a Cloud Security and IT Infrastructure Engineer with 7+ years of experience across multi-cloud security architecture, DevSecOps, and national-scale government and military infrastructure deployments.
 
 Before the cloud, I designed and deployed secure telecommunications, surveillance, and identity infrastructure across **50+ sites** for law enforcement and military agencies — including nationwide VoIP networks, IPSec-secured body-cam systems, Military vehicle surveillance infrastructure Systems, and Active Directory environments for command centers.
 
