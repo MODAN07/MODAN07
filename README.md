@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1F3D7A&center=true&vCenter=true&width=700&lines=Moses+Gnamisan+Daniel;Cloud+Security+%26+Infrastructure+Engineer;Government+%26+Military-Scale+Deployments;DevSecOps+%7C+Multi-Cloud+%7C+6%2B+Years" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1F3D7A&center=true&vCenter=true&width=700&lines=Moses+Gnamisan+Daniel;Cloud+Security+%26+Infrastructure+Engineer;Government+%26+High-End-Scale+Deployments;DevSecOps+%7C+Multi-Cloud+%7C+6%2B+Years" alt="Typing SVG" />
 
 </div>
 
